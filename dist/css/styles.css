@@ -164,7 +164,7 @@ h1, .h1 {
   display:block;
   position:absolute;
   color:white;
-  top:90px;
+  top:295px;
   bottom:0;
   left:-240px;
   right:0;
@@ -12083,7 +12083,7 @@ h1, .h1 {
     left: 0;
     height: 100%;
     width: 100%;
-    background-color: rgba(0, 0, 0, 0.85);
+    background-color: rgba(0, 0, 0, 0.60);
   }
 
   .masthead .masthead-content {
