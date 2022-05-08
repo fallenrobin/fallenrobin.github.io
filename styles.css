@@ -213,6 +213,15 @@ h1, .h1 {
 }
 
 @media (max-width: 828px) {
+  .console-underscore {
+    display: inline-block;
+    position: relative;
+    top: -0.14em;
+    left: 10px;
+  }
+}
+
+@media (max-width: 828px) {
   .console-container {
     font-family: Khula;
     font-size: 4em;
@@ -247,13 +256,6 @@ h1, .h1 {
   }
 }
 
-/* @media (max-width: 380px) {
-  .console-underscore {
-    position: fixed;
-    top: 26em;
-    left: 1em
-  }
-} */
 
 /* CLI end */
 
