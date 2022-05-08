@@ -187,7 +187,7 @@ h1, .h1 {
 @media (min-width: 1200px) {
   .console-container {
 
-    font-family: Khula;
+    /* font-family: Khula; */
     font-size: 4em;
     text-align: center;
     height: 200px;
@@ -223,7 +223,7 @@ h1, .h1 {
 
 @media (max-width: 828px) {
   .console-container {
-    font-family: Khula;
+    /* font-family: Khula; */
     font-size: 4em;
     text-align: center;
     height: 15vh !important;
