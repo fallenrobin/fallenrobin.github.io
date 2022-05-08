@@ -134,7 +134,7 @@ h1, .h1 {
 }
 
 /* Media Queries: Tabled Portrait */
-@media (max-width: 391px) {
+@media (max-width: 828px) {
   #avatar {
     position: fixed;
     top: 20em !important;
@@ -152,7 +152,7 @@ h1, .h1 {
 }
 
 
-@media (max-width: 391px) {
+@media (max-width: 828px) {
   #blurb {
     position: fixed;
     top: 26em;
@@ -208,7 +208,7 @@ h1, .h1 {
   left: 10px;
 }
 
-@media (max-width: 391px) {
+@media (max-width: 828px) {
   .console-container {
     font-family: Khula;
     font-size: 4em;
@@ -235,7 +235,7 @@ h1, .h1 {
   }
 }
 
-@media (max-width: 391px) {
+@media (max-width: 828px) {
   .profilePic {
     position: fixed;
     top: 42vw;
